@@ -10,7 +10,7 @@ chardet==3.0.4
 Click==7.0
 colorama==0.3.9
 coverage==4.5.1
-cryptography==2.4.2
+cryptography==3.2
 css==0.1
 css-class-names==0.0.1
 css-classes==1.1
